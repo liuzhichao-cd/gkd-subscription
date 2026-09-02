@@ -12,12 +12,6 @@
 https://raw.githubusercontent.com/liuzhichao-cd/gkd-subscription/main/dist/gkd.json5
 ```
 
-如果访问 `raw.githubusercontent.com` 较慢，也可以使用 jsDelivr 镜像：
-
-```text
-https://fastly.jsdelivr.net/gh/liuzhichao-cd/gkd-subscription@main/dist/gkd.json5
-```
-
 版本检查文件地址为：
 
 ```text
