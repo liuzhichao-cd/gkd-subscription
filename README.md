@@ -12,6 +12,12 @@
 https://raw.githubusercontent.com/liuzhichao-cd/gkd-subscription/main/dist/gkd.json5
 ```
 
+jsDelivr 加速链接：
+
+```text
+https://cdn.jsdelivr.net/gh/liuzhichao-cd/gkd-subscription@main/dist/gkd.json5
+```
+
 版本检查文件地址为：
 
 ```text
