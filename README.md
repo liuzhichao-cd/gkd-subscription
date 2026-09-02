@@ -160,3 +160,4 @@ pnpm run build
 - GKD 文档与规则说明：<https://gkd.li>
 - GKD API 类型参考：<https://gkd.li/api>
 - GKD 选择器调试工具：<https://i.gkd.li>
+- GDK [规则编写教程](https://github.com/Snoopy1866/notebook/blob/main/04%20Others/GKD%20%E8%A7%84%E5%88%99%E7%BC%96%E5%86%99%E6%95%99%E7%A8%8B/gkd-rule-tutorial.md)
