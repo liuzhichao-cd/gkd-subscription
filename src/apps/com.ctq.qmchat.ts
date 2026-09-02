@@ -14,9 +14,17 @@ export default defineGkdApp({
           key: 0,
           name: '关闭消息权限提示',
           fastQuery: true,
-          matches: 'TextView[text="取消"||text="我知道了"]',
+          matches: 'TextView[text="取消"]',
           snapshotUrls: [
             'https://i.gkd.li/i/31737540',
+          ],
+        },
+        {
+          key: 1,
+          name: '关闭消息权限指引',
+          fastQuery: true,
+          matches: 'TextView[text="我知道了"]',
+          snapshotUrls: [
             'https://i.gkd.li/i/31737509',
           ],
         },
