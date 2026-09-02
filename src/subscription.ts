@@ -24,7 +24,8 @@ export default defineGkdSubscription({
   version: 0,
   author: '杖量山河',
   checkUpdateUrl: './gkd.version.json5',
-  supportUri: 'https://raw.githubusercontent.com/liuzhichao-cd/gkd-subscription/refs/heads/main/dist/gkd.json5',
+  supportUri:
+    'https://raw.githubusercontent.com/liuzhichao-cd/gkd-subscription/refs/heads/main/dist/gkd.json5',
   categories,
   globalGroups,
   apps: await batchImportApps(`${import.meta.dirname}/apps`),
